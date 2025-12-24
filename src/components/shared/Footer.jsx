@@ -26,7 +26,7 @@ const Footer = () => {
             <h6 className="footer-title">Services</h6>
             <a className="link link-hover">Baby Care</a>
             <a className="link link-hover">Elderly Care</a>
-            <a className="link link-hover">Sick Care</a>
+            <a className="link link-hover">Special Care</a>
           </nav>
 
           <nav>
