@@ -5,9 +5,9 @@ import React from "react";
 const layout = ({ children }) => {
   return (
     <div>
-      <Navbar />
+      <Navbar></Navbar>
       <div className="min-h-[90vh]">{children}</div>
-      <Footer />
+      <Footer></Footer>
     </div>
   );
 };
